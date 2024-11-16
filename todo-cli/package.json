@@ -1,0 +1,15 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "Todo CLI application",
+  "main": "todo.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "jest": "^29.0.0",
+    "prettier": "^3.0.0"
+  }
+}
